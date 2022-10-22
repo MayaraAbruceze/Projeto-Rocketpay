@@ -18,6 +18,7 @@ Através desse projeto desenvolvi habilidades em:
 
 - HTML e CSS
 - JavaScript e JSON
+- [Vercel](https://vercel.com/)
 - [Node e NPM](https://nodejs.org/)
 - [Vite](https://vitejs.dev/)
 - [iMask](https://imask.js.org)
